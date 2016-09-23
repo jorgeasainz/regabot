@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "regabot.local",
+    "username": "pi",
+    "password": "raspberry",
+    "port": 22,
+    "remotePath": "www/",
+    "uploadOnSave": true
+}
