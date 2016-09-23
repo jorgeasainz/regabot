@@ -34,6 +34,12 @@ sudo python /opt/var/htdocs/python/controlSalida.py &
 install the database located at 
 /opt/var/htdocs/mysql/regabot.sql
 
+Enjoy!
 
+Let me know what you think:
+@jorgeasainz
+jorgeasainz.xyz
+
+Regards!
 
 
