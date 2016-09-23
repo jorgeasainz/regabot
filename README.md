@@ -34,6 +34,11 @@ sudo python /opt/var/htdocs/python/controlSalida.py &
 install the database located at 
 /opt/var/htdocs/mysql/regabot.sql
 
+Note: there are references to css and js that I didn't upload because I used an htm template and I do nothave rights to distribute it.
+You can make your own, or use any available and adjust your html files, I would recommend :
+https://themeforest.net/
+
+
 Enjoy!
 
 Let me know what you think:
